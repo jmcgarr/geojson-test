@@ -14,5 +14,24 @@
         "geometry": { 
             "type": "Point", "coordinates": [-122.0373078, 37.41932703]
         }
-    }]
+    }, {
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", "coordinates": [-122.0373078, 37.41932703]
+        }
+    }, {
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", "coordinates": [-122.0376193, 37.41974345]
+        }
+    }, {
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", "coordinates": [-122.0376799, 37.42010642]
+        }
+    }, {
+        "type": "Feature",
+        "geometry": { 
+            "type": "Point", "coordinates": [-122.038818, 37.4192635]]
+  }]
 }
